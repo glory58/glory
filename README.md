@@ -1,4 +1,4 @@
-# Évaluation Git & GitHub de Glory
+# Évaluation Git & GitHub de Glory et Frida
 
 Projet réalisé dans le cadre du TP Git.
 
