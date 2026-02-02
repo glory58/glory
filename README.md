@@ -1,2 +1,3 @@
-# Évaluation Git & GitHub
-Projet réalisé dans le cadre du TP Git.
+# Ã‰valuation Git & GitHub de Glory
+
+Projet rÃ©alisÃ© dans le cadre du TP Git.
